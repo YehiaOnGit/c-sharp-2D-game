@@ -1,0 +1,19 @@
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+C:\Users\dell\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.AssemblyReference.cache
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.SuggestedBindingRedirects.cache
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+D:\COLLEGE\3rd year\6th term\2Graphics\Multimedia\project multimedia by mster ye7ia el raya2 oc xD\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
